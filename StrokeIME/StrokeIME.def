@@ -1,0 +1,5 @@
+LIBRARY "StrokeIME"
+EXPORTS
+    DllRegisterServer     @1
+    DllUnregisterServer   @2
+    DllGetClassObject     @3

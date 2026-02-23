@@ -1,0 +1,20 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\CLSID\{734FD453-A4F8-4C5D-9C98-3FE2D7079760}]
+@="StrokeIME Input Method"
+
+[HKEY_CLASSES_ROOT\CLSID\{734FD453-A4F8-4C5D-9C98-3FE2D7079760}\InprocServer32]
+@="C:\\Users\\teska\\source\\repos\\StrokeIME\\x64\\Debug\\StrokeIME.dll"
+"ThreadingModel"="Apartment"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\CTF\TIP\{734FD453-A4F8-4C5D-9C98-3FE2D7079760}]
+@="StrokeIME Input Method"
+"Enable"=dword:00000001
+"Description"="筆劃輸入法"
+"IconFile"="C:\\Users\\teska\\source\\repos\\StrokeIME\\x64\\Debug\\StrokeIME.dll"
+"IconIndex"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\CTF\TIP\{734FD453-A4F8-4C5D-9C98-3FE2D7079760}\LanguageProfile\0x0404\{B6A1F3E2-9D4C-4F7A-8C3D-1E2B5A7C9F01}]
+"Description"="筆劃輸入法"
+"Enable"=dword:00000001
+"GUID"="{B6A1F3E2-9D4C-4F7A-8C3D-1E2B5A7C9F01}"
