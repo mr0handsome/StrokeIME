@@ -1,0 +1,4 @@
+﻿  StrokeiIME_Profile.cpp
+C:\Users\teska\source\repos\StrokeIME\StrokeIME\StrokeiIME_Profile.cpp(39,47): warning C4267: '引數': 將 'size_t' 轉換為 'ULONG'，資料可能遺失
+C:\Users\teska\source\repos\StrokeIME\StrokeIME\StrokeiIME_Profile.cpp(52,47): warning C4267: '引數': 將 'size_t' 轉換為 'ULONG'，資料可能遺失
+  StrokeIME_Profile.vcxproj -> C:\Users\teska\source\repos\StrokeIME\x64\Debug\StrokeIME_Profile.exe
